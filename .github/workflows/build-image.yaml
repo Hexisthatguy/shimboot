@@ -1,5 +1,5 @@
 name: build-image
-run-name: Build the shimboot disk image for all boards
+run-name: Build the shimboot disk image for hatch board
 on: [push]
 
 jobs:
